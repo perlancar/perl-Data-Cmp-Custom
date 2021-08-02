@@ -2,3 +2,4 @@ Data-Cmp-Custom-*
 .build
 *~
 nytprof*
+.DS_Store
